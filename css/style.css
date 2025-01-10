@@ -382,11 +382,13 @@ a{
     /* margin-left: 25px; */
     background-image:url(../images/how/HOW-WE-WORK1.png) ;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover ;
+    background-size: 168px 150px;
     text-align: center;
     color: white;
     font-size: 20px;
     font-weight: bolder;
+    background-position:center bottom ;
         
 
 
@@ -399,12 +401,14 @@ a{
     margin-left: 25px;
     background-image:url(../images/how/HOW-WE-WORK2.png) ;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
+    background-size: 168px 150px;
     text-align: center;
     color: white;
     font-size: 20px;
     font-weight: bolder;
     margin-top: auto;
+    background-position:center bottom ;
     
     
  }
@@ -417,11 +421,13 @@ a{
     background-image:url(../images/how/HOW-WE-WORK3.png) ;
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: 168px 150px;
     text-align: center;
     color:white ;
     font-size: 20px;
     font-weight: bolder;
    margin-top: auto;
+   background-position:center bottom ;
 
     
  }
@@ -434,11 +440,13 @@ a{
     background-image:url(../images/how/HOW-WE-WORK4.png ) ;
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: 168px 150px;
     text-align: center;
     color: white;
     font-size: 20px;
     font-weight: bolder;
     margin-top: auto;
+    background-position:center bottom ;
     
  }
  .bottom{
@@ -1181,6 +1189,7 @@ a{
    font-size: 20px;
    line-height: 45px;
 }
+
 
 
 
